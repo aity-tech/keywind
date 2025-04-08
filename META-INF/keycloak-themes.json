@@ -10,7 +10,7 @@
     },
     {
       "name": "quantinar",
-      "types": ["login"]
+      "types": ["login", "email"]
     },
     {
       "name": "synergetics",
